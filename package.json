@@ -1,6 +1,6 @@
 {
-  "name": "json2excle",
-  "version": "1.0.0",
+  "name": "json2excel-cli",
+  "version": "1.0.1",
   "description": "json to .xlsx/.csv",
   "main": "./dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/zhuyuhaoliar/json2excle.git"
   },
   "keywords": [
-    "json2excle",
+    "json2excel",
     "json2xlsx",
     "json2csv",
     "json2table"
