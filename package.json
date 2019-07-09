@@ -1,0 +1,26 @@
+{
+  "name": "json2excle",
+  "version": "1.0.0",
+  "description": "json to .xlsx/.csv",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuyuhaoliar/json2excle.git"
+  },
+  "keywords": [
+    "json2excle",
+    "json2xlsx",
+    "json2csv",
+    "json2table"
+  ],
+  "author": "yuhao zhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuyuhaoliar/json2excle/issues"
+  },
+  "homepage": "https://github.com/zhuyuhaoliar/json2excle#readme"
+}
